@@ -6,6 +6,7 @@ I am writing this repository as an example of using modern C++ and the STL to so
 
 This repository is to give an example to other people on the internet who ask me about learning C++.
 
+## Content
 
 <table>
   <caption>
