@@ -38,4 +38,55 @@ This is a collection of solutions to neetcode's practice interview problems.
       </td>
     </tr>
   </body>
+
+  <body>
+    <tr>
+      <th scope="row">
+        Two Pointers
+      </th>
+      <td scope="row">
+        valid palindrome
+      </td>
+      <td scope="row">
+        -
+      </td>
+      <td scope="row">
+        -
+      </td>
+    </tr>
+  </body>
+
+  <body>
+    <tr>
+      <th scope="row">
+        Stacks
+      </th>
+      <td scope="row">
+        valid parentheses
+      </td>
+      <td scope="row">
+        -
+      </td>
+      <td scope="row">
+        -
+      </td>
+    </tr>
+  </body>
+
+  <body>
+    <tr>
+      <th scope="row">
+        Linked Lists
+      </th>
+      <td scope="row">
+        reverse linked list
+      </td>
+      <td scope="row">
+        -
+      </td>
+      <td scope="row">
+        -
+      </td>
+    </tr>
+  </body>
 </table>
