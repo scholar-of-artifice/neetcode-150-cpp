@@ -1,6 +1,12 @@
 # neetcode-150-cpp
 This is a collection of solutions to neetcode's practice interview problems.
 
+## Why does this repository exist?
+I am writing this repository as an example of using modern C++ and the STL to solve fundamental coding problems. 
+
+This repository is to give an example to other people on the internet who ask me about learning C++.
+
+
 <table>
   <caption>
     These are the problems contained within this repository.
